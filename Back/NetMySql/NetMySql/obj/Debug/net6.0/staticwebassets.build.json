@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bsR1wvV9lMGIV1JLE21jRypk9gQPebM+Fm+7oFHhug4=",
+  "Source": "NetMySql",
+  "BasePath": "_content/NetMySql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

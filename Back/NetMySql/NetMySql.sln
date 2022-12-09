@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMySql", "NetMySql\NetMySql.csproj", "{B52CCBEA-8C20-4570-92F3-9DB7BA0E9A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMySql.Data", "NetMySql.Data\NetMySql.Data.csproj", "{251AC20C-9839-46ED-93D4-54C3C9EB13BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMySql.Model", "NetMySql.Model\NetMySql.Model.csproj", "{D0876435-814C-493E-83D7-335AF22B29B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52CCBEA-8C20-4570-92F3-9DB7BA0E9A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52CCBEA-8C20-4570-92F3-9DB7BA0E9A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52CCBEA-8C20-4570-92F3-9DB7BA0E9A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52CCBEA-8C20-4570-92F3-9DB7BA0E9A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251AC20C-9839-46ED-93D4-54C3C9EB13BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251AC20C-9839-46ED-93D4-54C3C9EB13BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251AC20C-9839-46ED-93D4-54C3C9EB13BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251AC20C-9839-46ED-93D4-54C3C9EB13BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0876435-814C-493E-83D7-335AF22B29B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0876435-814C-493E-83D7-335AF22B29B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0876435-814C-493E-83D7-335AF22B29B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0876435-814C-493E-83D7-335AF22B29B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9082F0-B987-408B-9F0A-748DB4B509F5}
+	EndGlobalSection
+EndGlobal
